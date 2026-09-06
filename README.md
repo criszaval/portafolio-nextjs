@@ -513,16 +513,25 @@ Las variables de entorno deben configurarse también en el proyecto de Vercel.
 Las siguientes imágenes pueden utilizarse para documentar el funcionamiento de la aplicación:
 
 ### Página principal
+<img width="1847" height="933" alt="image" src="https://github.com/user-attachments/assets/a437d8cf-236d-4b59-9d7c-0a2cb8ca6fff" />
 
+## Seccion sobre mi 
+<img width="1497" height="938" alt="image" src="https://github.com/user-attachments/assets/6349c59c-fabb-47e7-95c0-691bb8bf8332" />
 
 ### Sección de proyectos
+<img width="1757" height="938" alt="image" src="https://github.com/user-attachments/assets/030b0851-3d40-4b3a-86f0-d2ee397dd03a" />
 
 
 
 ### Detalle del proyecto
+<img width="1795" height="986" alt="image" src="https://github.com/user-attachments/assets/3b8dcc13-3dc7-45fc-8168-d415c2333b0f" />
 
+### Categorias de proyectos (para ingresar a estas categorias dar click sobre el boton morado que identifica la categoria por ejemplo fullstack)
 
+<img width="1803" height="987" alt="image" src="https://github.com/user-attachments/assets/4bbb766a-0db7-4340-a5f0-7e1921329fef" />
 
+## Seccion de contacto 
+<img width="1116" height="810" alt="image" src="https://github.com/user-attachments/assets/766cc0f9-f66d-4200-9d41-8b0d8159a611" />
 
 
 ---
