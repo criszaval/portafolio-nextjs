@@ -404,7 +404,7 @@ como plantilla para configurar el proyecto.
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/criszaval/portfolio-next.git
+git clone https://github.com/criszaval/portfolio-nextjs.git
 ```
 
 Entrar al proyecto:
@@ -562,7 +562,7 @@ Las siguientes imágenes pueden utilizarse para documentar el funcionamiento de 
 ### Repositorio de GitHub
 
 ```text
-https://github.com/criszaval/portfolio-next
+https://github.com/criszaval/portfolio-nextjs
 ```
 
 ---
