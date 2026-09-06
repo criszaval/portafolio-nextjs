@@ -109,17 +109,17 @@ export default function Hero() {
 
       </div>
 
-      {/* Indicador de scroll inferior oculto en pantallas muy pequeñas para evitar solapamiento */}
+      {/* Indicador de scroll adaptado para móvil y pantallas grandes */}
       <motion.div
-        animate={{ y: [0, 6, 0] }}
+        animate={{ y: [0, 4, 0] }}
         transition={{ duration: 1.5, repeat: Infinity, ease: "easeInOut" }}
-        className="hidden sm:block absolute bottom-6 left-1/2 -translate-x-1/2 text-center"
+        className="mt-8 sm:absolute sm:bottom-6 sm:left-1/2 sm:-translate-x-1/2 text-center"
       >
         <p className="mb-1 text-[10px] uppercase tracking-widest text-slate-500">
           Explorar
         </p>
-        <div className="mx-auto h-6 w-4 rounded-full border border-slate-600 p-0.5">
-          <div className="mx-auto h-1.5 w-1 rounded-full bg-blue-400" />
+        <div className="mx-auto h-5 w-3.5 rounded-full border border-slate-600 p-0.5">
+          <div className="mx-auto h-1 w-1 rounded-full bg-blue-400" />
         </div>
       </motion.div>
 
